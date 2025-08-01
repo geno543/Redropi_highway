@@ -4,12 +4,6 @@
 
 the project aims to detect asteroids and meteor movement using high-quality cameras and radar detection methods using an AI model for accurate analysis, and it classifies bodies be in three categories: non-meteor, meteor, and asteroid. It also has software for detecting the shape and size of meteors.It consists of two systems: a solar power monitoring system and an asteroid monitoring system.
 
-## System Overview
-
-Radropi consists of two integrated monitoring systems:
-
-1. **Solar Power Monitoring System** - Ensures continuous operation with renewable energy
-2. **Asteroid Monitoring System** - Primary detection and classification system
 
 ### Classification Categories
 
@@ -18,18 +12,10 @@ The AI model classifies detected objects into three categories:
 - **Meteor**: Burning debris entering Earth's atmosphere
 - **Asteroid**: Larger rocky bodies in space
 
-### Additional Features
-
-- Shape and size detection for meteors
-- Real-time tracking and analysis
-- GPS positioning for accurate coordinate logging
-- Automatic satellite dish tracking
-- Low-light astrophotography capabilities
-
 ## Hardware Components
 
 ### Main Processing Unit
-- Raspberry Pi 5 (8GB) - High-performance computing platform
+- Raspberry Pi 5 (4GB) - High-performance computing platform
 
 ### Detection Equipment
 - IMX462 Starvis All-Sky Camera - Outstanding low-light performance
@@ -43,13 +29,13 @@ The AI model classifies detected objects into three categories:
 ## Project Images
 
 ### 3D Model
-![3D Assembly](<img width="847" height="655" alt="3D Design" src="https://github.com/user-attachments/assets/a28eb868-be22-4f6a-a8cc-32c7877147ad" />
-)
+<img width="847" height="655" alt="3D Design" src="https://github.com/user-attachments/assets/8524cc25-594b-47a7-ab3f-9ebf3f7cb9cd" />
+
 *Complete 3D model showing all components integrated*
 
 ### PCB Design
-![PCB Layout](![PCB_Design](https://github.com/user-attachments/assets/2f7c0e4c-cd5a-4469-b7af-d03af2323f60)
-)
+![PCB_Design](https://github.com/user-attachments/assets/58f7fdfa-c94d-4d41-b12b-cbf22be56ccb)
+
 *Custom Raspberry Pi HAT for sensor integration*
 
 
