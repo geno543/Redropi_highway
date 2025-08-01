@@ -44,11 +44,11 @@ The AI model classifies detected objects into three categories:
 | Item | Quantity | Description | Unit Price (USD) | Purchase Link |
 |------|----------|-------------|------------------|---------------|
 | Raspberry Pi 5 (16GB) | 1 | Latest flagship board with high performance | $120 | [Raspberry Pi Foundation](https://www.raspberrypi.com/products/raspberry-pi-5/) |
-| IMX462 Starvis All-Sky Cam | 1 | Outstanding low-light astrophotography camera | $40.18 | [AliExpress](https://www.aliexpress.com/item/1005004258249394.html) |
+| IMX462 Starvis All-Sky Cam | 1 | Outstanding low-light astrophotography camera | $40.18 | [AliExpress](https://ar.aliexpress.com/item/1005008679477184.html?spm=a2g0o.productlist.main.1.456alOpKlOpKBb&algo_pvid=c9047dc4-e725-4e11-98f2-fbd365b288b9&algo_exp_id=c9047dc4-e725-4e11-98f2-fbd365b288b9-0&pdp_ext_f=%7B%22order%22%3A%2211%22%2C%22eval%22%3A%221%22%7D&pdp_npi=4%40dis%21EGP%211766.78%211713.78%21%21%2133.00%2132.01%21%40212e508d17540195159431204eb48c%2112000046209347055%21sea%21EG%216183184762%21ABX&curPageLogUid=M117VafgYumd&utparam-url=scene%3Asearch%7Cquery_from%3A) |
 | Compact Automatic Satellite Dish | 1 | Small, vehicle-friendly auto-tracking dish | $130 | [Alibaba](https://www.alibaba.com/showroom/auto-satellite-dish.html) |
-| Ublox NEO-6M GPS Module | 1 | Popular hobby GPS with stable performance | $9.26 | [Most elec](https://mostelectronic.com/shop/sensors/ublox-neo-6m-gps-module/) |
+| Ublox NEO-6M GPS Module | 1 | Popular hobby GPS with stable performance | $9.26 | [Most elec](9.26) |
 | MG995 Servo Motor (Full metal gear) | 4 | Robust, high-torque servos | $15.94 | [Most elec](https://mostelectronic.com/shop/motors-drives-2/servo-motors-motors-drives-2/servo-motor-mg995-360-degree-metal-gear/) |
 | LDR (Light Dependent Resistor, pack) | 1 | Standard 5mm LDRs (10-pack) | $4 | [Most elec](https://mostelectronic.com/shop/components/resistors-potentiometers/ldrs/photo-resistor-sensor-ldr-10mm/) |
-| Project wiring kit | 5 | Assorted wires, jumper packs, tools | $6 | [Most elec](https://mostelectronic.com/shop/wires-crocodiles/u-shape-shield-breadboard-jumper-wires-140pcs/) |
+| Project wiring kit | 5 | Assorted wires, jumper packs, tools | $7 | [Most elec](https://mostelectronic.com/shop/wires-crocodiles/u-shape-shield-breadboard-jumper-wires-140pcs/) |
 |PCB from jlcpcb| 5 |The PCB hat for the pi | $11 |  JLCPCB |
 **Total Estimated Cost: $325**
