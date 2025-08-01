@@ -50,5 +50,5 @@ The AI model classifies detected objects into three categories:
 | MG995 Servo Motor (Full metal gear) | 4 | Robust, high-torque servos | $15.94 | [Most elec](https://mostelectronic.com/shop/motors-drives-2/servo-motors-motors-drives-2/servo-motor-mg995-360-degree-metal-gear/) |
 | LDR (Light Dependent Resistor, pack) | 1 | Standard 5mm LDRs (10-pack) | $4 | [Most elec](https://mostelectronic.com/shop/components/resistors-potentiometers/ldrs/photo-resistor-sensor-ldr-10mm/) |
 | Project wiring kit | 5 | Assorted wires, jumper packs, tools | $6 | [Most elec](https://mostelectronic.com/shop/wires-crocodiles/u-shape-shield-breadboard-jumper-wires-140pcs/) |
-|PCB from jlcpcb| 5 | $11 | The PCB hat for the pi | JLCPCB |
+|PCB from jlcpcb| 5 |The PCB hat for the pi | $11 |  JLCPCB |
 **Total Estimated Cost: $325**
