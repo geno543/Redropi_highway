@@ -42,12 +42,14 @@ The AI model classifies detected objects into three categories:
 
 ## Project Images
 
-### 3D CAD Model
-![3D Assembly]()
+### 3D Model
+![3D Assembly](<img width="847" height="655" alt="3D Design" src="https://github.com/user-attachments/assets/a28eb868-be22-4f6a-a8cc-32c7877147ad" />
+)
 *Complete 3D model showing all components integrated*
 
 ### PCB Design
-![PCB Layout]()
+![PCB Layout](![PCB_Design](https://github.com/user-attachments/assets/2f7c0e4c-cd5a-4469-b7af-d03af2323f60)
+)
 *Custom Raspberry Pi HAT for sensor integration*
 
 
