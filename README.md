@@ -43,12 +43,12 @@ The AI model classifies detected objects into three categories:
 
 | Item | Quantity | Description | Unit Price (USD) | Purchase Link |
 |------|----------|-------------|------------------|---------------|
-| Raspberry Pi 5 (4GB) | 1 | Latest flagship board with high performance | $120 | [Raspberry Pi Foundation](https://www.raspberrypi.com/products/raspberry-pi-5/) |
-| IMX462 Starvis All-Sky Cam | 1 | Outstanding low-light astrophotography camera | $120 | [AliExpress](https://www.aliexpress.com/item/1005004258249394.html) |
+| Raspberry Pi 5 (16GB) | 1 | Latest flagship board with high performance | $120 | [Raspberry Pi Foundation](https://www.raspberrypi.com/products/raspberry-pi-5/) |
+| IMX462 Starvis All-Sky Cam | 1 | Outstanding low-light astrophotography camera | $40.18 | [AliExpress](https://www.aliexpress.com/item/1005004258249394.html) |
 | Compact Automatic Satellite Dish | 1 | Small, vehicle-friendly auto-tracking dish | $130 | [Alibaba](https://www.alibaba.com/showroom/auto-satellite-dish.html) |
-| Ublox NEO-6M GPS Module | 1 | Popular hobby GPS with stable performance | $15 | [Amazon](https://www.amazon.com/dp/B01MTU9KDM) |
-| MG995 Servo Motor (Full metal gear) | 4 | Robust, high-torque servos, $6 each | $24 | [Amazon](https://www.amazon.com/s?k=mg995+servo) |
-| LDR (Light Dependent Resistor, pack) | 1 | Standard 5mm LDRs (10-pack) | $7 | [Amazon](https://www.amazon.com/dp/B07QK4XR98) |
-| Project wiring/connectors/dupont kit | 1 | Assorted wires, jumper packs, tools | $15 | [Amazon](https://www.amazon.com/s?k=jumper+wires+kit) |
-
-**Total Estimated Cost: $325 USD.**
+| Ublox NEO-6M GPS Module | 1 | Popular hobby GPS with stable performance | $9.26 | [Most elec](https://mostelectronic.com/shop/sensors/ublox-neo-6m-gps-module/) |
+| MG995 Servo Motor (Full metal gear) | 4 | Robust, high-torque servos | $15.94 | [Most elec](https://mostelectronic.com/shop/motors-drives-2/servo-motors-motors-drives-2/servo-motor-mg995-360-degree-metal-gear/) |
+| LDR (Light Dependent Resistor, pack) | 1 | Standard 5mm LDRs (10-pack) | $4 | [Most elec](https://mostelectronic.com/shop/components/resistors-potentiometers/ldrs/photo-resistor-sensor-ldr-10mm/) |
+| Project wiring kit | 5 | Assorted wires, jumper packs, tools | $6 | [Most elec](https://mostelectronic.com/shop/wires-crocodiles/u-shape-shield-breadboard-jumper-wires-140pcs/) |
+|PCB from jlcpcb| 5 | $11 | The PCB hat for the pi | JLCPCB |
+**Total Estimated Cost: $325**
