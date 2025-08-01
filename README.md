@@ -2,11 +2,7 @@
 
 ## Project Description
 
-Radropi is an advanced astronomical monitoring system designed to detect and classify celestial objects including asteroids and meteors. The system utilizes high-quality cameras and radar detection methods combined with AI models for accurate analysis and classification.
-
-## Why This Project Was Created
-
-With the increasing interest in space debris monitoring and planetary defense, there's a growing need for accessible, cost-effective detection systems. Radropi aims to democratize asteroid and meteor detection by providing a Raspberry Pi-based solution that can be deployed by amateur astronomers, educational institutions, and research facilities.
+the project aims to detect asteroids and meteor movement using high-quality cameras and radar detection methods using an AI model for accurate analysis, and it classifies bodies be in three categories: non-meteor, meteor, and asteroid. It also has software for detecting the shape and size of meteors.It consists of two systems: a solar power monitoring system and an asteroid monitoring system.
 
 ## System Overview
 
@@ -47,25 +43,13 @@ The AI model classifies detected objects into three categories:
 ## Project Images
 
 ### 3D CAD Model
-![3D Assembly](./3D%20Design/Assem1.SLDASM)
+![3D Assembly]()
 *Complete 3D model showing all components integrated*
 
 ### PCB Design
-![PCB Layout](./PCB/Ras%20pi%20hat/Ras%20pi%20hat/Ras%20pi%20hat.kicad_pcb)
+![PCB Layout]()
 *Custom Raspberry Pi HAT for sensor integration*
 
-### System Architecture
-```
-┌─────────────────┐    ┌──────────────────┐    ┌─────────────────┐
-│   All-Sky Cam   │────│  Raspberry Pi 5  │────│  Satellite Dish │
-└─────────────────┘    │   + Custom HAT   │    └─────────────────┘
-                       └──────────────────┘
-                              │
-                       ┌──────────────────┐
-                       │   GPS + Servos   │
-                       │   + LDR Sensors  │
-                       └──────────────────┘
-```
 
 ## Bill of Materials
 
