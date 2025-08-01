@@ -1,0 +1,9 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+J1,PinSocket_1x04_P2.54mm_Vertical,1,Conn_01x04_Socket,
+J10,TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal,1,Motor 2,
+J2,PinSocket_2x20_P2.54mm_Vertical,1,Raspberry_Pi_4,
+J6,PinHeader_1x02_P2.54mm_Vertical,1,speed 1,
+J7,PinHeader_1x02_P2.54mm_Vertical,1,speed 2,
+J8,TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal,1,power entry,
+J9,TerminalBlock_MetzConnect_Type073_RT02602HBLU_1x02_P5.08mm_Horizontal,1,Motor 1,
+U1,DIP-16_W7.62mm,1,L293D,
