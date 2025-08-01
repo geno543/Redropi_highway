@@ -17,11 +17,6 @@ The idea for Radropi came from my fascination with space and the growing concern
 - Worked on component placement and routing optimization
 - Established power distribution network for the various sensors
 
-**Progress Made:**
-- Initial KiCad project setup
-- Component library creation for custom parts
-- Basic schematic design with Raspberry Pi 5 interface
-- Power management circuit design
 ---
 
 ### July 25, 2025 - Continued Development
@@ -33,20 +28,6 @@ The idea for Radropi came from my fascination with space and the growing concern
 - Created mounting system for automatic satellite dish
 - Developed servo motor mounting brackets
 - Integrated GPS module housing with weather protection
-
-**Progress Made:**
-- Complete 3D assembly (Assem1.SLDASM) with all components
-- Mechanical stress analysis for outdoor deployment
-- Weather-resistant enclosure design
-- Cable management and routing solutions
-- Mounting hardware specifications
-
-**Key Design Decisions:**
-- Modular design for easy maintenance and upgrades
-- IP65 rating for outdoor weather resistance
-- Tool-free assembly for field deployment
-- Integrated cable management to prevent tangling
-
 ---
 
 ### July 26, 2025 - Documentation and BOM
@@ -77,39 +58,26 @@ The idea for Radropi came from my fascination with space and the growing concern
 - Built GPS module interface for positioning and timing
 - Implemented servo controller for precise tracking movements
 - Designed comprehensive data logging system for detection events
-
-**Progress Made:**
-- Complete Python firmware package with 7 modules
-- Main system controller with graceful shutdown handling
-- AI detection with three-category classification
-- Camera interface with CLAHE enhancement for low-light
-- GPS controller with NMEA parsing and mock mode
-- Servo controller supporting 4 motors with smooth movement
-- Data logger with CSV export and image annotation
-- Requirements file with all dependencies
-
-**Technical Decisions:**
-- Used threading for concurrent camera capture and detection
-- Implemented mock controllers for testing without hardware
-- Added comprehensive error handling and logging
-- Designed modular architecture for easy maintenance
-- Included background subtraction for motion detection
-
 ---
 
 ## Development Photos and Progress
 
 ### PCB Development (July 24)
-![PCB Schematic Progress](./PCB/Ras%20pi%20hat/Ras%20pi%20hat/Ras%20pi%20hat.kicad_sch)
+![Schramatic1](https://github.com/user-attachments/assets/1927cf2f-72f8-4783-830e-41f933ff9c62)
+![Schramatic2](https://github.com/user-attachments/assets/6ca86372-c036-4e34-91dc-2c554e3f1ff1)
+
 *Initial schematic design showing sensor integration*
 
-![PCB Layout](./PCB/Ras%20pi%20hat/Ras%20pi%20hat/Ras%20pi%20hat.kicad_pcb)
+![PCB_Design](https://github.com/user-attachments/assets/5dbc60a4-4c52-4790-8132-5f427c241d6d)
+
 *Final PCB layout with optimized routing*
 
 ### 3D Design Progress (July 25)
-![3D Assembly](./3D%20Design/Assem1.SLDASM)
+
+<img width="847" height="655" alt="3D Design" src="https://github.com/user-attachments/assets/d3aac1c3-b0e6-4487-a11f-688f96d2e9a0" />
+
 *Complete mechanical assembly with all components*
 
-![STEP Model](./PCB/Ras%20pi%20hat/Ras%20pi%20hat/Ras%20pi%20hat.step)
-*3D model of the custom PCB for integration verification*
+
+
 
