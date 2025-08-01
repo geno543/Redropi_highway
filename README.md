@@ -51,4 +51,4 @@ The AI model classifies detected objects into three categories:
 | LDR (Light Dependent Resistor, pack) | 1 | Standard 5mm LDRs (10-pack) | $7 | [Amazon](https://www.amazon.com/dp/B07QK4XR98) |
 | Project wiring/connectors/dupont kit | 1 | Assorted wires, jumper packs, tools | $15 | [Amazon](https://www.amazon.com/s?k=jumper+wires+kit) |
 
-**Total Estimated Cost: $431 USD, but we have a Raspberry Pi 5, so it will be 321 USD only.**
+**Total Estimated Cost: $325 USD.**
